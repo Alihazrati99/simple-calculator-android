@@ -10,8 +10,8 @@ A basic Android calculator app that performs simple arithmetic calculations.
 ## Screenshots
 
 <div align="center">
-  <img src="https://github.com/Alihazrati99/simple-calculator-android/assets/156400087/5dff7623-443a-488c-a0c7-1223501b5d12" alt="Screenshot 12" width="300"/>
-  <img src="https://github.com/Alihazrati99/simple-calculator-android/assets/156400087/2365a565-41cb-4b41-8a28-7a4908bb4986" alt="Screenshot 11" width="300"/>
+  <img src="https://github.com/Alihazrati99/simple-calculator-android/assets/156400087/3b00a0c9-ae3c-437a-be5c-dd8802205df1" alt="Screenshot 11" width="300"/>
+  <img src="https://github.com/Alihazrati99/simple-calculator-android/assets/156400087/639ab515-be16-4039-bbe2-e7a283b8ed2f" alt="Screenshot 12" width="300"/>
 </div>
 
 
